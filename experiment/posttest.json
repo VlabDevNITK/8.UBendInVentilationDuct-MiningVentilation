@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following parameter will affect the pressure drop due to shock loss in the mine?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Total pressure drop in the mine",
+        "b": "Frictional pressure drop in the mine",
+        "c": "Both a & b",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "On the basis of above experiment, which of the following parameters are not going to change on increasing the volume of the air?",
+      "answers": {
+        "a": "Velocity of air flow",
+        "b": "Total pressure drop",
+        "c": "Frictional pressure drop",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following statement is false?",
+      "answers": {
+        "a": "Shock loss factor is directly proportional to the P_shock",
+        "b": "Shock loss factor is inversely proportional to the square of the area of the cross section of the duct",
+        "c": "Shock loss factor is inversely proportional to the square of the quantity of air flow through the duct",
+        "d": "Shock loss factor is inversely proportional to density of the air"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "What are the processes which leads to the development of Shock loss pressure at the bends?",
+      "answers": {
+        "a": "Constriction of airways at bends and hence contraction of air takes place",
+        "b": "Formation of eddies around the bends, intensity being more at corners",
+        "c": "Expansion of airways after the bend and hence expansion of air taking place",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following have the largest Equivalent length of bends?",
+      "answers": {
+        "a": "Sharp bend, acute",
+        "b": "Rounded  bend, acute",
+        "c": "Sharp bend, right angle",
+        "d": "Sharp bend, obtuse angle"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
     }
   ]
 }
